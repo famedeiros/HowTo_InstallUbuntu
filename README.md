@@ -11,7 +11,7 @@ useful links
 ### 2b create a Bootable USB Flash Drive from the ISO
 http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/
 
-### 3a Standard Graphical Installation Guide
+### 3a Installation Guide: Standard Graphical Installation
 http://www.ubuntu.com/download/desktop/install-ubuntu-desktop
 
 ### 3b Installation Guide: Partitioning with empty HD
